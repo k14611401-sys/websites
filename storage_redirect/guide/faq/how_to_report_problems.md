@@ -1,4 +1,4 @@
-# Report problems
+storage_redirect/guide/faq/how_to_report_problems.md# Report problems
 
 This document will teach you how to report problems.
 
